@@ -1,0 +1,17 @@
+flask
+pyngrok
+faiss-cpu
+numpy
+pandas
+pillow
+pytesseract
+pdf2image
+pillow
+pymupdf
+python-docx
+python-pptx
+sentence-transformers
+googletrans==4.0.0-rc1
+torch
+faiss-cpu
+transformers
